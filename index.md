@@ -1,8 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
-
 # About Me
+
+I am a first-year PhD student at The Chinese University of Hong Kong (CUHK) under supervision of Prof. Qi Dou.
