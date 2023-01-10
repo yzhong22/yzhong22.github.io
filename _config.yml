@@ -30,6 +30,9 @@ twitter_username: jekyllrb
 github_username: jekyll
 
 # Build settings
+description:
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
