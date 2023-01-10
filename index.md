@@ -4,11 +4,7 @@ I am a first-year PhD student at The Chinese University of Hong Kong (CUHK) unde
 
 # Publications
 
-On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations
-
-Wenlong Deng\*, **Yuan Zhong\***, Qi Dou, Xiaoxiao Li
-
-arXiv: 2301.01481 [[paper](https://arxiv.org/abs/2301.01481)] [[code](https://github.com/vengdeng/FCRO)]
+On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations<br />Wenlong Deng\*, **Yuan Zhong\***, Qi Dou, Xiaoxiao Li<br />arXiv: 2301.01481 [[paper](https://arxiv.org/abs/2301.01481)] [[code](https://github.com/vengdeng/FCRO)]
 
 \* Equal Contribution
 
