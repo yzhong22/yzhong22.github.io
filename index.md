@@ -6,7 +6,7 @@ My name is Yuan Zhong (钟源). I am a first-year PhD student at The Chinese Uni
 
 In reverse chronological order. \*: equal contribution.
 
-**On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations**<br />Wenlong Deng\*, <u>Yuan Zhong</u>\*, Qi Dou, Xiaoxiao Li<br />*arXiv: 2301.01481* [[paper](https://arxiv.org/abs/2301.01481)] [[code](https://github.com/vengdeng/FCRO)]
+**On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations**<br />Wenlong Deng\*, <u>Yuan Zhong</u>\*, Qi Dou, Xiaoxiao Li<br />*arXiv: 2301.01481*<br />[[paper](https://arxiv.org/abs/2301.01481)] [[code](https://github.com/vengdeng/FCRO)]
 
 # Teaching
 
