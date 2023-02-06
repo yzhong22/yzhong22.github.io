@@ -8,7 +8,7 @@ I am motivated by the open problems lying in machine learning and its applicatio
 
 In reverse chronological order. \* equal contribution.
 
-**On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations**<br />Wenlong Deng\*, <u>Yuan Zhong</u>\*, Qi Dou, Xiaoxiao Li<br />*Information Processing in Medical Imaging (IPMI), 2023*<br />[[paper](https://arxiv.org/abs/2301.01481)] [[code](https://github.com/vengdeng/FCRO)]
+**On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations**<br />Wenlong Deng\*, <u>Yuan Zhong</u>\*, Qi Dou, Xiaoxiao Li<br />*Information Processing in Medical Imaging: 28th International Conference (IPMI 2023)*<br />[[paper](https://arxiv.org/abs/2301.01481)] [[code](https://github.com/vengdeng/FCRO)]
 
 # Teaching
 
