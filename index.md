@@ -8,6 +8,12 @@ I am motivated by the open problems lying in machine learning and its applicatio
 
 In reverse chronological order. \* equal contribution.
 
+**3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation**
+
+Shizhan Gong, <u>Yuan Zhong</u>, Wenao Ma, Jinpeng Li, Zhao Wang, Jingyang Zhang, Pheng-Ann Heng, Qi Dou
+
+[[paper](https://arxiv.org/abs/2306.13465)] [[code](https://github.com/med-air/3DSAM-adapter)]
+
 **On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations**<br />Wenlong Deng\*, <u>Yuan Zhong</u>\*, Qi Dou, Xiaoxiao Li<br />*Information Processing in Medical Imaging: 28th International Conference (IPMI 2023)*<br />[[paper](https://arxiv.org/abs/2301.01481)] [[code](https://github.com/vengdeng/FCRO)]
 
 # Teaching
