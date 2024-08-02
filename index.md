@@ -6,11 +6,11 @@ I am motivated by the open problems lying in machine learning and its applicatio
 
 # Publications
 
-In reverse chronological order. \* indicates equal contribution.
+\* indicates equal contribution.
 
-**Weakly-supervised Medical Image Segmentation with Gaze Annotations**<br />Yuan Zhong, Chenhui Tang, Yumeng Yang, Ruoxi Qi, Kang Zhou, Yuqi Gong, Pheng Ann Heng, Janet H. Hsiao, Qi Dou<br />*International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024*<br />[[paper](https://arxiv.org/abs/2407.07406)] [[code](https://github.com/med-air/GazeMedSeg)]
+**Weakly-supervised Medical Image Segmentation with Gaze Annotations**<br /><u>Yuan Zhong</u>, Chenhui Tang, Yumeng Yang, Ruoxi Qi, Kang Zhou, Yuqi Gong, Pheng Ann Heng, Janet H. Hsiao, Qi Dou<br />*International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024*<br />[[paper](https://arxiv.org/abs/2407.07406)] [[code](https://github.com/med-air/GazeMedSeg)]
 
-**FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models**<br />Ruinan Jin\*, Zikang Xu\*, Yuan Zhong\*, Qiongsong Yao, Qi Dou, S. Kevin Zhou, Xiaoxiao Li<br />Preprint 2024<br />[[paper](https://arxiv.org/abs/2407.00983)] [[code](https://github.com/FairMedFM/FairMedFM)]
+**FairMedFM: Fairness Benchmarking for Medical Imaging Foundation Models**<br />Ruinan Jin\*, Zikang Xu\*, <u>Yuan Zhong</u>\*, Qiongsong Yao, Qi Dou, S. Kevin Zhou, Xiaoxiao Li<br />Preprint 2024<br />[[paper](https://arxiv.org/abs/2407.00983)] [[code](https://github.com/FairMedFM/FairMedFM)]
 
 **On Fairness of Medical Image Classification with Multiple Sensitive Attributes via Learning Orthogonal Representations**<br />Wenlong Deng\*, <u>Yuan Zhong</u>\*, Qi Dou, Xiaoxiao Li<br />*International Conference on Information Processing in Medical Imaging (IPMI) 2023*<br />[[paper](https://arxiv.org/abs/2301.01481)] [[code](https://github.com/vengdeng/FCRO)]
 
